@@ -14,4 +14,14 @@
         </plugin>
         </plugin>
     </plugins>
+    <plugins>
+        <plugin name="RatingButtons" version="0.9" minTarget="8.1.0" maxTarget="*">
+            <title lang="EN">Rating Buttons</title>
+            <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
+            <url>https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip</url>
+            <creator>flipflip</creator>
+            <link>https://github.com/phkehl/lms-plugins</link>
+            <sha>8f1086f4db980b90ea47c997a4cb4f27882df9ca</sha>
+        </plugin>
+    </plugins>
 </extensions>

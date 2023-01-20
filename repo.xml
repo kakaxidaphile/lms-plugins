@@ -1,16 +1,17 @@
 <?xml version="1.0"?>
 <extensions>
     <details>
-        <title lang="EN">flipflip's plugin repo</title>
+        <title lang="EN">kakaxi's plugin repo</title>
     </details>
     <plugins>
-        <plugin name="RatingButtons" version="0.9" minTarget="8.1.0" maxTarget="*">
-            <title lang="EN">Rating Buttons</title>
-            <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
-            <url>https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip</url>
-            <creator>flipflip</creator>
-            <link>https://github.com/phkehl/lms-plugins</link>
-            <sha>8f1086f4db980b90ea47c997a4cb4f27882df9ca</sha>
+        <plugin name="C3PO" version="2.03.02" minTarget="7.8.0" maxTarget="*">
+            <title lang="EN">C-3PO Transcoding Helper</title>
+            <desc lang="EN">Automate transcoding and resampling</desc>
+            <url>https://raw.githubusercontent.com/kakaxidaphile/lms-plugins/main/C3PO-v2.03.02.zip</url>
+            <creator>marcoc1712</creator>
+            <link>https://github.com/kakaxidaphile/lms-plugins</link>
+            <sha>3fd5e708b83d8db98554ff9630b592f2686da141</sha>
+        </plugin>
         </plugin>
     </plugins>
 </extensions>
